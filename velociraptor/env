@@ -1,0 +1,5 @@
+VELOX_USER=admin
+VELOX_PASSWORD=MySuperAdminPassword!
+VELOX_ROLE=administrator
+VELOX_SERVER_URL=https://VelociraptorServer:7777/
+VELOX_FRONTEND_HOSTNAME=VelociraptorServer
